@@ -10,7 +10,7 @@ import com.learnspringBoot.learnspringBoot.course.Course;
 
 @RestController
 public class CourseController {
-	// id, name, author
+	
 	@RequestMapping("/courses")
 	public List<Course> retrieveAllCourse() {
 		return Arrays.asList(new Course(1, "SprintBoot", "Apex"), new Course(1, "SprintData", "Rachitha")
