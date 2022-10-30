@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learnspringBoot.learnspringBoot.LearnSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.835 s - in com.learnspringBoot.learnspringBoot.LearnSpringBootApplicationTests
